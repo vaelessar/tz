@@ -1,0 +1,11 @@
+c:\users\kioko\documents\visual studio 2015\Projects\tz\tz\bin\Debug\tz.exe.config
+c:\users\kioko\documents\visual studio 2015\Projects\tz\tz\bin\Debug\tz.exe
+c:\users\kioko\documents\visual studio 2015\Projects\tz\tz\bin\Debug\tz.pdb
+c:\users\kioko\documents\visual studio 2015\Projects\tz\tz\bin\Debug\Npgsql.dll
+c:\users\kioko\documents\visual studio 2015\Projects\tz\tz\bin\Debug\Npgsql.xml
+c:\users\kioko\documents\visual studio 2015\Projects\tz\tz\obj\Debug\tz.csprojResolveAssemblyReference.cache
+c:\users\kioko\documents\visual studio 2015\Projects\tz\tz\obj\Debug\tz.Form1.resources
+c:\users\kioko\documents\visual studio 2015\Projects\tz\tz\obj\Debug\tz.Properties.Resources.resources
+c:\users\kioko\documents\visual studio 2015\Projects\tz\tz\obj\Debug\tz.csproj.GenerateResource.Cache
+c:\users\kioko\documents\visual studio 2015\Projects\tz\tz\obj\Debug\tz.exe
+c:\users\kioko\documents\visual studio 2015\Projects\tz\tz\obj\Debug\tz.pdb
